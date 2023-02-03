@@ -1,4 +1,10 @@
-REMIX DEFAULT WORKSPACE
+# Smart Wallet 💳: 
+
+The Smart Wallet is a decentralized wallet built using the Solidity programming language on the Ethereum blockchain. It features a unique allowance mechanism, where the owner of the wallet can set limits on how much can be transferred by any given user. This adds an extra layer of security, allowing for greater control over funds. The wallet also includes a voting system, where guardians can vote on changes to the wallet's ownership. This allows for a more democratic approach to managing the wallet, ensuring that important decisions are made with the input of multiple trusted individuals.
+
+
+
+### REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
@@ -11,7 +17,7 @@ This workspace contains 3 directories:
 2. 'scripts': Contains four typescript files to deploy a contract. It is explained below.
 3. 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
 
-SCRIPTS
+### SCRIPTS
 
 The 'scripts' folder has four typescript files which help to deploy the 'Storage' contract using 'web3.js' and 'ethers.js' libraries.
 
