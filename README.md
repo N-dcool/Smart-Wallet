@@ -8,7 +8,7 @@
 ### Demo Video
 
 <a title="Smart Wallet" href="https://www.youtube.com/watch?v=clawjSGQ_d0">
-  <img src="https://cdn.discordapp.com/attachments/1071312646562914396/1071312743489093662/smart_contract_yt_thumnail.png" width="100%" height="600">
+  <img src="https://cdn.discordapp.com/attachments/1071312646562914396/1071312743489093662/smart_contract_yt_thumnail.png" width="100%" height="100%">
 </a>
 
 
